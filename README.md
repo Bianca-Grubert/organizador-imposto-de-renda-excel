@@ -43,6 +43,29 @@ Durante o desenvolvimento do projeto foram aplicados diferentes recursos do Micr
 
 Além dos cálculos e da organização das informações, o projeto também considera a experiência do usuário.
 
+## 📚 Aprendizados
+
+O desenvolvimento deste projeto possibilitou aplicar conhecimentos de Excel em uma situação prática, explorando a ferramenta não apenas como uma planilha para cálculos, mas como uma solução para organização e gerenciamento de informações.
+Entre os principais aprendizados estão:
+- Estruturação de dados no Excel;
+- Organização de informações financeiras;
+- Utilização de validações para melhorar o preenchimento;
+- Construção de uma interface mais amigável;
+- Aplicação prática de recursos e funções do Excel;
+- Desenvolvimento de uma solução voltada para uma necessidade real;
+- Documentação de um projeto utilizando GitHub e Markdown.
+
+## ⚠️ Aviso importante
+
+Este projeto possui finalidade exclusivamente educacional e foi desenvolvido para aplicação prática dos conhecimentos adquiridos durante o curso.
+A ferramenta não substitui sistemas oficiais, profissionais contábeis ou orientações da Receita Federal.
+Antes da publicação do arquivo em um repositório público, recomenda-se utilizar exclusivamente dados fictícios ou demonstrativos, evitando a exposição de CPF, endereço, dados bancários, rendimentos ou qualquer outra informação pessoal.
+
+## 👩‍💻 Autora
+
+Bianca A. G. Gonçalves de Araujo
+Projeto desenvolvido como parte de um desafio prático de Excel e organização de dados.
+
 A estrutura da planilha busca proporcionar uma utilização simples e intuitiva, facilitando a identificação dos campos que devem ser preenchidos e a navegação pelas diferentes áreas da ferramenta.
 
 ## 🛠️ Tecnologia utilizada
