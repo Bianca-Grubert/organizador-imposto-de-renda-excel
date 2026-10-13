@@ -8,6 +8,22 @@ A proposta é reunir, em um único ambiente, dados importantes para o processo d
 
 O projeto foi desenvolvido como parte de um desafio prático da **DIO**, com foco na aplicação de recursos do Excel para criação de uma solução funcional, organizada e de fácil utilização.
 
+## 🖼️ Demonstração da ferramenta
+
+Abaixo são apresentadas algumas telas da ferramenta desenvolvida no Microsoft Excel para organização das informações utilizadas na declaração de Imposto de Renda.
+
+### 🏠 Tela inicial
+
+![Tela inicial da ferramenta](images/pg%20inicial.png)
+
+### 📋 Organização das informações
+
+![Organização das informações](images/pg2.png)
+
+### 💰 Registro e controle de dados
+
+![Registro e controle de dados](images/pg3.png)
+
 ## 🎯 Objetivo
 
 O principal objetivo da ferramenta é auxiliar o usuário na **organização das informações utilizadas na declaração de Imposto de Renda**, centralizando os dados em uma planilha estruturada.
